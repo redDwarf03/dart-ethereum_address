@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   convert: ^2.1.1
-  pointycastle: ^1.0.2
+  pointycastle: ^2.0.0
 
 dev_dependencies:
   test: ^1.9.4
